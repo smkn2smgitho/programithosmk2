@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: "weight";
+  font-style: normal;
+}
+.row-pilihan {
+    display: flex;
+    
+  }
+  .rak {
+    width: 323px;
+    height: 44px;
+    padding: 5px;
+    padding-left: 8px;
+    gap: 4px;
+    border-radius: 8px;
+    border: 1px solid rgb(190, 190, 190);
+    opacity: 0px;
+    color: gray;
+    margin-left: 20px;
+  }
+  

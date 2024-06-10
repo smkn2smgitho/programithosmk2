@@ -1,0 +1,35 @@
+body{
+  background-color: #42486CBF;
+}
+.container{
+  width: 500px;
+  height: 470px;
+  top: 154.5px;
+  left: 457.5px;
+  padding: 0px 0px 24px 0px;
+  border-radius: 8px 8px 8px 8px;
+  background-color: white;
+  margin-top: 85px;
+}
+.modal-title{
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.tulisan{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.kotak {
+  width: 430px;
+  height: Hug (44px)px;
+  padding: 14px 16px 14px 16px;
+  gap: 4px;
+  border-radius: 8px ;
+  border: 1px solid #F1F2F4;
+  margin-top: 10px;
+}
+
+.kotak:hover{
+  background-color: #F7F8F9;
+}
